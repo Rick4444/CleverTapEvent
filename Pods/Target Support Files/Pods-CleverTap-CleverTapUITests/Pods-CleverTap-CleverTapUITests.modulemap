@@ -1,0 +1,6 @@
+framework module Pods_CleverTap_CleverTapUITests {
+  umbrella header "Pods-CleverTap-CleverTapUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
